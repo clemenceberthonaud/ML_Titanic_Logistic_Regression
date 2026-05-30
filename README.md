@@ -6,4 +6,4 @@ Librairies: panda, skealearn <br>
 Features: Ticket Class, Sex, Age, AllRelatives aboard (created), Titles (created) <br>
 Accuracy on the test set: 79.4% <br>
 
-[![Open in nbviewer](https://img.shields.io/badge/Jupyter-nbviewer-orange)](https://nbviewer.org/github/clemenceberthonaud/ML_Titanic_Logistic_Regression/main/ml-titanic-competition.ipynb)
+[![Open in nbviewer](https://img.shields.io/badge/Jupyter-nbviewer-orange)](https://nbviewer.org/github/clemenceberthonaud/ML_Titanic_Logistic_Regression/blob/main/ml-titanic-competition.ipynb)
